@@ -1,15 +1,29 @@
+
 #links{
 	border: solid;
 	border-width: 3px;
 	border-radius: 5px;
+
 	background-color: white;
 }
 body {
+HEAD
 	background-color: rgb(128,0,0);
 	font-family: 'Crimson Pro', serif;
 }
 
 #girl{
+
+	/*  background-color:rgb(128,0,0); /*added by Salvador */
+
+	/* background-color:lightgrey; /* added by Angel */
+
+	font-family: 'Crimson Pro', serif;
+}
+
+
+h1{
+>>>>>>> 901289828eaf61146f206135f920de28bf61ccb8
 	text-decoration: underline;
 	text-align: center;
 	color: white;
@@ -22,8 +36,20 @@ body {
 }
 #rico{
 	color: white;
+	font-style: italic;
+	text-align: center;
 }
 
 #question{
 	text-decoration: underline;
 }
+
+
+.h1{
+	text-align: center;
+}
+
+#top {
+	text-align: left;
+}
+
