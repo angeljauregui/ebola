@@ -48,3 +48,9 @@ h3{
 #div-float{
 	overflow:auto;
 }
+#div-img{
+	overflow:auto;
+}
+img {
+  float: right;
+}
