@@ -9,18 +9,18 @@ body {
 	font-family: 'Crimson Pro', serif;
 }
 
-h1{
+#girl{
 	text-decoration: underline;
 	text-align: center;
 	color: white;
 }
 
-h2{
+#blue{
 	font-style: italic;
 	text-align: center;
 	color: white;
 }
-h3{
+#rico{
 	color: white;
 }
 

@@ -1,0 +1,26 @@
+#links {
+	border: solid;
+	border width: 20px
+
+}
+#Hi {
+	color: red;
+}
+
+#pa{
+	float: right;
+}
+
+#two{
+	color: white;
+}
+#foul{
+	color: white;
+	margin-left: 15%;
+}
+
+#paragraphs{
+	border: solid;
+	border-radius: 5px;
+	border-color: white;
+}
