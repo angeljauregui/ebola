@@ -87,8 +87,15 @@ body{
 	text-decoration: none; color: pink;
 }
 
-#about.us {
+#about {
 	background: white;
 }
 
+.rotate {
+	transform: rotate(180deg)
+}
+
+#angel {
+	float: right;
+}
 
