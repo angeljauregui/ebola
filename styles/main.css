@@ -5,17 +5,14 @@
 	border-radius: 5px;
 	background-color: white;
 }
-<<<<<<< HEAD
+
 
 nav{
 	background: white;
 }
 
 #bodyhi {
-=======
-body {
 
->>>>>>> 456f6e90535671b03b38f85f891289ee301ac3e9
 	background-color: rgb(128,0,0);
 	font-family: 'Crimson Pro', serif;
 }
@@ -26,10 +23,7 @@ body {
 	font-family: 'Crimson Pro', serif;
 }
 h1{
-<<<<<<< HEAD
-=======
 
->>>>>>> 456f6e90535671b03b38f85f891289ee301ac3e9
 	text-decoration: underline;
 	text-align: center;
 }
@@ -82,7 +76,7 @@ body{
 	padding: 40px;
 	margin: 10px;
 	background-color: black;
-	color:white
+	color:white;
 }
 #pic, #omg, #evolution, #god, #venegas{
 	float:right;
@@ -100,8 +94,8 @@ body{
 	transform: rotate(180deg)
 }
 
-#angel {
-	float: right;
+.angel {
+	color: grey;
 }
 
 a {
