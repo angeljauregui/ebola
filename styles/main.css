@@ -5,31 +5,22 @@
 	border-radius: 5px;
 	background-color: white;
 }
-<<<<<<< HEAD
 
 nav{
 	background: white;
 }
 
 #bodyhi {
-=======
-body {
 
->>>>>>> 456f6e90535671b03b38f85f891289ee301ac3e9
-	background-color: rgb(128,0,0);
+	background-color: lightgrey;
 	font-family: 'Crimson Pro', serif;
 }
 
 #girl{
-
-	/*  background-color:rgb(128,0,0); /*added by Salvador */
 	font-family: 'Crimson Pro', serif;
+	color: black;
 }
 h1{
-<<<<<<< HEAD
-=======
-
->>>>>>> 456f6e90535671b03b38f85f891289ee301ac3e9
 	text-decoration: underline;
 	text-align: center;
 }
@@ -37,13 +28,11 @@ h1{
 #blue{
 	font-style: italic;
 	text-align: center;
+	color: black;
 }
 
-h3{
-
-#rico{
-	color: white;
-
+#ric{
+	color: black;
 	font-style: italic;
 	text-align: center;
 }
@@ -74,7 +63,7 @@ h1{
 	border: solid;
 }
 body{
-	background-color:white
+	background-color: white
 	color:white
 }
 #what, #nvm, #orgin, #outbreak, #giselle{
