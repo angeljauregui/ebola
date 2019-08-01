@@ -1,0 +1,35 @@
+#links {
+	border: solid;
+	border width: 20px
+
+}
+
+#pa{
+	float: right;
+}
+
+#two{
+	color: white;
+}
+#foul{
+	color: white;
+	margin-left: 15%;
+}
+
+#paragraphs{
+	border: solid;
+	border-radius: 5px;
+	border-color: white;
+}
+body {
+	background-color: grey;
+}
+
+#what,#nvm, #orgin, #outbreak{
+	border: solid 5px pink;
+
+}
+#omg, #evolution #god #venegas{
+	float: right;
+
+}
