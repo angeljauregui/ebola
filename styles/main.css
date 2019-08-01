@@ -6,6 +6,13 @@
 	background-color: white;
 }
 body {
+
+	background-color: rgb(128,0,0);
+	font-family: 'Crimson Pro', serif;
+}
+
+#girl{
+
 	/*  background-color:rgb(128,0,0); /*added by Salvador */
 
 	/* background-color:lightgrey; /* added by Angel */
@@ -15,15 +22,21 @@ body {
 
 
 h1{
+
 	text-decoration: underline;
 	text-align: center;
 }
 
-h2{
+#blue{
 	font-style: italic;
 	text-align: center;
 }
+
 h3{
+
+#rico{
+	color: white;
+
 	font-style: italic;
 	text-align: center;
 }
