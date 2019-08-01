@@ -1,12 +1,21 @@
 
 #links{
 	border: solid;
-	border-width: 3px;
+	border-width: 3.7px;
 	border-radius: 5px;
 	background-color: white;
 }
+<<<<<<< HEAD
+
+nav{
+	background: white;
+}
+
+#bodyhi {
+=======
 body {
 
+>>>>>>> 456f6e90535671b03b38f85f891289ee301ac3e9
 	background-color: rgb(128,0,0);
 	font-family: 'Crimson Pro', serif;
 }
@@ -14,15 +23,13 @@ body {
 #girl{
 
 	/*  background-color:rgb(128,0,0); /*added by Salvador */
-
-	/* background-color:lightgrey; /* added by Angel */
-
 	font-family: 'Crimson Pro', serif;
 }
-
-
 h1{
+<<<<<<< HEAD
+=======
 
+>>>>>>> 456f6e90535671b03b38f85f891289ee301ac3e9
 	text-decoration: underline;
 	text-align: center;
 }
@@ -48,9 +55,7 @@ p {
 #question{
 	text-decoration: underline;
 }
-
-
-.h1{
+h1{
 	text-align: center;
 }
 
