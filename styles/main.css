@@ -5,12 +5,17 @@
 	border-radius: 5px;
 	background-color: white;
 }
+<<<<<<< HEAD
 
 nav{
 	background: white;
 }
 
 #bodyhi {
+=======
+body {
+
+>>>>>>> 456f6e90535671b03b38f85f891289ee301ac3e9
 	background-color: rgb(128,0,0);
 	font-family: 'Crimson Pro', serif;
 }
@@ -21,19 +26,29 @@ nav{
 	font-family: 'Crimson Pro', serif;
 }
 h1{
+<<<<<<< HEAD
+=======
+
+>>>>>>> 456f6e90535671b03b38f85f891289ee301ac3e9
 	text-decoration: underline;
 	text-align: center;
-	color: white;
 }
 
 #blue{
 	font-style: italic;
 	text-align: center;
-	color: white;
 }
+
+h3{
+
 #rico{
 	color: white;
+
 	font-style: italic;
+	text-align: center;
+}
+
+p {
 	text-align: center;
 }
 
@@ -47,4 +62,36 @@ h1{
 #top {
 	text-align: left;
 }
+
+#div-float{
+	overflow:auto;
+}
+#div-img{
+	overflow:auto;
+}
+
+#ugh {
+	border: solid;
+}
+body{
+	background-color:white
+	color:white
+}
+#what, #nvm, #orgin, #outbreak, #giselle{
+	border: solid 5px pink;
+	padding: 40px;
+	margin: 10px;
+	background-color: black;
+	color:white
+}
+#pic, #omg, #evolution, #god, #venegas{
+	float:right;
+}
+
+#loser {
+	text-decoration: none; color: pink;
+}
+
+
+
 
