@@ -7,6 +7,7 @@
 }
 
 
+
 nav{
 	background: white;
 }
@@ -15,13 +16,21 @@ nav{
 
 	background-color: lightgrey;
 
+}
+body {
+
+	background-color: rgb(128,0,0);
 	font-family: 'Crimson Pro', serif;
 }
 
 #girl{
+
+
 	font-family: 'Crimson Pro', serif;
 	color: black;
 }
+
+
 h1{
 
 	text-decoration: underline;
@@ -49,6 +58,12 @@ p {
 }
 
 
+
+.h1{
+	text-align: center;
+}
+
+
 #top {
 	text-align: left;
 }
@@ -67,7 +82,7 @@ body{
 	background-color: white
 	color:white
 }
-#what, #nvm, #orgin, #outbreak, #giselle{
+#what, #nvm, #orgin, #outbreak, #giselle,{
 	border: solid 5px pink;
 	padding: 40px;
 	margin: 10px;
@@ -82,9 +97,10 @@ body{
 	text-decoration: none; color: pink;
 }
 
-#about {
+#about.us {
 	background: white;
 }
+
 
 .rotate {
 	transform: rotate(180deg)
@@ -93,6 +109,7 @@ body{
 .angel {
 	color: grey;
 }
+
 
 a {
 	text-decoration-line: none;
