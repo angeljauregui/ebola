@@ -13,14 +13,14 @@ nav{
 
 #bodyhi {
 
-	background-color: rgb(128,0,0);
+	background-color: lightgrey;
+
 	font-family: 'Crimson Pro', serif;
 }
 
 #girl{
-
-	/*  background-color:rgb(128,0,0); /*added by Salvador */
 	font-family: 'Crimson Pro', serif;
+	color: black;
 }
 h1{
 
@@ -31,13 +31,11 @@ h1{
 #blue{
 	font-style: italic;
 	text-align: center;
+	color: black;
 }
 
-h3{
-
-#rico{
-	color: white;
-
+#ric{
+	color: black;
 	font-style: italic;
 	text-align: center;
 }
@@ -49,9 +47,7 @@ p {
 #question{
 	text-decoration: underline;
 }
-h1{
-	text-align: center;
-}
+
 
 #top {
 	text-align: left;
@@ -68,7 +64,7 @@ h1{
 	border: solid;
 }
 body{
-	background-color:white
+	background-color: white
 	color:white
 }
 #what, #nvm, #orgin, #outbreak, #giselle{
