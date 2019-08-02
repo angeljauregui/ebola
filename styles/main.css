@@ -17,10 +17,6 @@ nav{
 	background-color: lightgrey;
 
 }
-body {
-	background-color: rgb(128,0,0);
-	font-family: 'Crimson Pro', serif;
-}
 
 #girl{
 
@@ -77,10 +73,14 @@ p {
 #ugh {
 	border: solid;
 }
+
 body{
-	background-color: white
-	color:white
+	background-color: lightgrey;
+
+	font-family: 'Crimson Pro', serif;
 }
+
+
 #what, #nvm, #orgin, #outbreak, #giselle,{
 	border: solid 5px pink;
 	padding: 40px;
@@ -110,7 +110,4 @@ body{
 
 a {
 	text-decoration-line: none;
-}
-body{
-	background-color: lightgrey;
 }
