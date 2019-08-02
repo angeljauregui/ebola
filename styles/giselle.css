@@ -13,4 +13,6 @@ body{
 }
 #nav_bar{
 	background-color: pink;
+	border:solid  2px black;
+	border-radius: 6px;
 }
