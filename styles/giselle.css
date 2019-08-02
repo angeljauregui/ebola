@@ -1,14 +1,14 @@
 body{
 	background-color: white;
 }
-#what, #nvm, #orgin, #outbreak, #giselle{
+.what, #nvm, #orgin, #outbreak, #dog #giselle{
 	border: solid 5px pink;
 	padding: 40px;
 	margin: 10px;
 	background-color: black;
 	color:white;
 }
-#pic, #omg, #evolution, #god, #venegas{
+#pic, #omg, #evolution, #god, #cat #venegas{
 	float:right;
 }
 #nav_bar{
