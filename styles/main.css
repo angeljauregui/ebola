@@ -111,3 +111,6 @@ body{
 a {
 	text-decoration-line: none;
 }
+body{
+	background-color: lightgrey;
+}
